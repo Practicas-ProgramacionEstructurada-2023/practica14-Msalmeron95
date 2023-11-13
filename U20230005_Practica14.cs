@@ -38,7 +38,6 @@ namespace HelloWorld
         } while (opcion != 3); 
     }
 
-
     static void Menu()
     {
         Console.WriteLine("\n*************Menu Principal*************");
